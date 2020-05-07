@@ -1,0 +1,14 @@
+/Users/paul/Projects/web_blog/dotnetcore-api/bin/Debug/netcoreapp2.2/dotnetcore-api.deps.json
+/Users/paul/Projects/web_blog/dotnetcore-api/bin/Debug/netcoreapp2.2/dotnetcore-api.runtimeconfig.json
+/Users/paul/Projects/web_blog/dotnetcore-api/bin/Debug/netcoreapp2.2/dotnetcore-api.runtimeconfig.dev.json
+/Users/paul/Projects/web_blog/dotnetcore-api/bin/Debug/netcoreapp2.2/dotnetcore-api.dll
+/Users/paul/Projects/web_blog/dotnetcore-api/bin/Debug/netcoreapp2.2/dotnetcore-api.pdb
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.csprojAssemblyReference.cache
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.RazorAssemblyInfo.cache
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.RazorAssemblyInfo.cs
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.AssemblyInfoInputs.cache
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.AssemblyInfo.cs
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.RazorTargetAssemblyInfo.cache
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.dll
+/Users/paul/Projects/web_blog/dotnetcore-api/obj/Debug/netcoreapp2.2/dotnetcore-api.pdb
