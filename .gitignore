@@ -42,5 +42,7 @@ e2e/*.map
 /node_modules
 /wwwroot/node_modules
 
+.vscode/
+
 
 # End of https://www.gitignore.io/api/angular,dotnetcore
