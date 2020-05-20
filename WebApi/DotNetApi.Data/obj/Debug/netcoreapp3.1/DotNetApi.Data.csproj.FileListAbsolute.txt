@@ -1,0 +1,11 @@
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/bin/Debug/netcoreapp3.1/DotNetApi.Data.deps.json
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/bin/Debug/netcoreapp3.1/DotNetApi.Data.runtimeconfig.json
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/bin/Debug/netcoreapp3.1/DotNetApi.Data.runtimeconfig.dev.json
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/bin/Debug/netcoreapp3.1/DotNetApi.Data.dll
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/bin/Debug/netcoreapp3.1/DotNetApi.Data.pdb
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/Debug/netcoreapp3.1/DotNetApi.Data.AssemblyInfoInputs.cache
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/Debug/netcoreapp3.1/DotNetApi.Data.AssemblyInfo.cs
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/Debug/netcoreapp3.1/DotNetApi.Data.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/Debug/netcoreapp3.1/DotNetApi.Data.dll
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/Debug/netcoreapp3.1/DotNetApi.Data.pdb
+/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/Debug/netcoreapp3.1/DotNetApi.Data.genruntimeconfig.cache
