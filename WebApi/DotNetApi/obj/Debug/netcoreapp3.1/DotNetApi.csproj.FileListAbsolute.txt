@@ -6,12 +6,16 @@
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/DotNetApi.runtimeconfig.dev.json
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/DotNetApi.dll
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/DotNetApi.pdb
-/Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.csprojAssemblyReference.cache
+/Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/BaselineTypeDiscovery.dll
+/Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/Lamar.dll
+/Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/Lamar.Microsoft.DependencyInjection.dll
+/Users/paul/Projects/web_blog/WebApi/DotNetApi/bin/Debug/netcoreapp3.1/LamarCodeGeneration.dll
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.AssemblyInfoInputs.cache
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.AssemblyInfo.cs
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.csproj.CoreCompileInputs.cache
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.MvcApplicationPartsAssemblyInfo.cache
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.RazorTargetAssemblyInfo.cache
+/Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.csproj.CopyComplete
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/staticwebassets/DotNetApi.StaticWebAssets.Manifest.cache
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/staticwebassets/DotNetApi.StaticWebAssets.xml
 /Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/Debug/netcoreapp3.1/DotNetApi.dll

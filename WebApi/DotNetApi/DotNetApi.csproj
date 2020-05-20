@@ -5,4 +5,7 @@
   </PropertyGroup>
 
 
+  <ItemGroup>
+    <PackageReference Include="Lamar.Microsoft.DependencyInjection" Version="4.3.0" />
+  </ItemGroup>
 </Project>
