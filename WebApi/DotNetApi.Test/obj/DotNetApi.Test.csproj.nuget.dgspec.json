@@ -4,6 +4,75 @@
     "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Test/DotNetApi.Test.csproj": {}
   },
   "projects": {
+    "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj",
+        "projectName": "DotNetApi.Data",
+        "projectPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj",
+        "packagesPath": "/Users/paul/.nuget/packages/",
+        "outputPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/paul/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Lamar.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Test/DotNetApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +96,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj": {
+                "projectPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj"
+              },
+              "/Users/paul/Projects/web_blog/WebApi/DotNetApi/DotNetApi.csproj": {
+                "projectPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi/DotNetApi.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -67,6 +143,90 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paul/Projects/web_blog/WebApi/DotNetApi/DotNetApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paul/Projects/web_blog/WebApi/DotNetApi/DotNetApi.csproj",
+        "projectName": "DotNetApi",
+        "projectPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi/DotNetApi.csproj",
+        "packagesPath": "/Users/paul/.nuget/packages/",
+        "outputPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/paul/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj": {
+                "projectPath": "/Users/paul/Projects/web_blog/WebApi/DotNetApi.Data/DotNetApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Lamar.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

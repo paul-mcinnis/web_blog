@@ -1,22 +1,37 @@
 ﻿<Properties StartupConfiguration="{23C1D744-8080-438E-AFD9-8545FCD477B2}|Default">
   <MonoDevelop.Ide.ItemProperties.DotNetApi PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DotNetApi/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNetApi/Controllers/ArticleController.cs">
     <Files>
-      <File FileName="DotNetApi.Data/Models/Post.cs" Line="10" Column="1" />
-      <File FileName="DotNetApi.Data/Repository/BlogContext.cs" Line="15" Column="1" />
-      <File FileName="DotNetApi.Data/Migrations/20200520063448_InitialCreate.Designer.cs" Line="1" Column="1" />
-      <File FileName="DotNetApi.Data/Migrations/20200520063448_InitialCreate.cs" Line="19" Column="24" />
-      <File FileName="DotNetApi.Data/Repository/BlogRepository.cs" Line="11" Column="6" />
-      <File FileName="DotNetApi/Startup.cs" Line="25" Column="45" />
+      <File FileName="DotNetApi/Controllers/ArticleController.cs" Line="28" Column="1" />
+      <File FileName="DotNetApi/Models/EmptyClass.cs" Line="13" Column="1" />
+      <File FileName="DotNetApi/Services/ArticleService.cs" Line="32" Column="28" />
+      <File FileName="DotNetApi/Dependency Resolution/AppRegistry.cs" Line="13" Column="1" />
+      <File FileName="DotNetApi/Startup.cs" Line="33" Column="1" />
       <File FileName="DotNetApi/Program.cs" Line="1" Column="1" />
-      <File FileName="DotNetApi/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="DotNetApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="DotNetApi/Properties/launchSettings.json" Line="14" Column="29" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+      <File FileName="DotNetApi.Data/Models/Article.cs" Line="14" Column="1" />
+      <File FileName="DotNetApi.Test/RepositoryTests/BlogRepositoryTests.cs" Line="20" Column="1" />
+      <File FileName="DotNetApi.Test/ControllerTests/ArticleControllerTests.cs" Line="1" Column="1" />
+      <File FileName="DotNetApi.Test/ServiceTests/ArticleServiceTests.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DotNetApi" expanded="True">
+            <Node name="Solution Items" expanded="True" />
             <Node name="DotNetApi" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ArticleController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="DotNetApi.Data" expanded="True" />
+            <Node name="DotNetApi.Test" expanded="True">
+              <Node name="ControllerTests" expanded="True" />
+              <Node name="RepositoryTests" expanded="True" />
+              <Node name="ServiceTests" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -1,3 +1,4 @@
+using DotNetApi.DependencyResolution;
 using Lamar;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -29,6 +30,8 @@ namespace DotNetApi
                 s.TheCallingAssembly();
                 s.WithDefaultConventions();
             });
+
+            services.IncludeRegistry<AppRegistry>();
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.

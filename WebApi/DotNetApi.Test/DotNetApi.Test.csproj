@@ -13,4 +13,13 @@
     <PackageReference Include="Lamar.Microsoft.DependencyInjection" Version="4.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="RepositoryTests\" />
+    <Folder Include="ServiceTests\" />
+    <Folder Include="ControllerTests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetApi\DotNetApi.csproj" />
+    <ProjectReference Include="..\DotNetApi.Data\DotNetApi.Data.csproj" />
+  </ItemGroup>
 </Project>
